@@ -22,14 +22,28 @@ package com.cui.chapter03.p03_01_wait_notify;
 public class Run3 {
     public static void main(String[] args) {
         try {
-            String lock =new String();
-            System.out.println("syn上面");
-            synchronized (lock) {
-                System.out.println("syn第一行");
-                lock.wait();
-                System.out.println("wait下面");
-            }
-            System.out.println("syn下面");
+            Object lock = new Object();
+            new Thread(() -> {
+                try {
+                    synchronized (lock) {
+                        System.out.println("开始 wait time=" + System.currentTimeMillis());
+                        lock.wait();
+                        System.out.println("结束 wait time=" + System.currentTimeMillis());
+                    }
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }, "t1").start();
+
+            Thread.sleep(3000);
+
+            new Thread(() -> {
+                synchronized (lock) {
+                    System.out.println("开始 notify time=" + System.currentTimeMillis());
+                    lock.notify();
+                    System.out.println("结束 notify time=" + System.currentTimeMillis());
+                }
+            }, "t2").start();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

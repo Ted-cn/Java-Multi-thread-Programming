@@ -9,53 +9,9 @@ class MyList {
     public void add() {
         list.add("高洪岩");
     }
+
     public int size() {
         return list.size();
-    }
-}
-
-class ThreadA extends Thread {
-    private MyList list;
-
-    public ThreadA(MyList list) {
-        super();
-        this.list = list;
-    }
-
-    @Override
-    public void run() {
-        try {
-            for (int i = 0; i < 100; i++) {
-                list.add();
-                System.out.println("添加了" + (i + 1) + "个元素");
-                Thread.sleep(1000);
-            }
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-    }
-}
-
-class ThreadB extends Thread {
-    private MyList list;
-
-    public ThreadB(MyList list) {
-        super();
-        this.list = list;
-    }
-
-    @Override
-    public void run() {
-        try {
-            while (true) {
-                if (list.size() == 5) {
-                    System.out.println("==5了，线程b要退出了！");
-                    throw new InterruptedException();
-                }
-            }
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
     }
 }
 
@@ -68,11 +24,33 @@ class ThreadB extends Thread {
 public class Run1 {
     public static void main(String[] args) {
         MyList list = new MyList();
-        ThreadA a = new ThreadA(list);
-        a.setName("A");
-        a.start();
-        ThreadB b = new ThreadB(list);
-        b.setName("B");
-        b.start();
+        new Thread(() -> {
+            try {
+                for (int i = 0; i < 100; i++) {
+                    list.add();
+                    System.out.println("添加了" + (i + 1) + "个元素");
+                    Thread.sleep(1000);
+                }
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }, "A").start();
+
+
+
+        new Thread(() -> {
+            try {
+                while (true) {
+                    System.out.println(Thread.currentThread().getName() + "正在运行");
+                    Thread.sleep(1000);
+                    if (list.size() == 5) {
+                        System.out.println("==5了，线程b要退出了！");
+                        throw new InterruptedException();
+                    }
+                }
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }, "B").start();
     }
 }

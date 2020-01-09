@@ -1,62 +1,44 @@
 package com.cui.chapter03.p03_01_wait_notify;
 
-import java.util.ArrayList;
-import java.util.List;
-
-class MyList5 {
-    private List list = new ArrayList();
-
-    public void add() {
-        list.add("高洪岩");
-    }
-    public int size() {
-        return list.size();
-    }
-}
-
-class ThreadA5 extends Thread {
-    private MyList5 list;
-
-    public ThreadA5(MyList5 list) {
-        super();
-        this.list = list;
-    }
-
-    @Override
-    public void run() {
-        try {
-            for (int i = 0; i < 100; i++) {
-                list.add();
-                System.out.println("添加了" + (i + 1) + "个元素");
-                Thread.sleep(1000);
+class Service5 {
+    public void testMethod5(Object lock) {
+        synchronized (lock) {
+            System.out.println("being wait()");
+            try {
+                lock.wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+            System.out.println("end wait()");
         }
     }
 }
 
-class ThreadB5 extends Thread {
-    private MyList5 list;
-
-    public ThreadB5(MyList5 list) {
-        super();
-        this.list = list;
-    }
-
-    @Override
-    public void run() {
-        try {
-            while (true) {
-                if (list.size() == 5) {
-                    System.out.println("==5了，线程b要退出了！");
-                    throw new InterruptedException();
-                }
-            }
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-    }
-}
+/**
+ * 当interrupt()方法遇到wait()方法
+ *
+ * 当线程呈wait()状态时，调用线程对象的interrupt()方法会出现java.lang.InterruptedException异常
+ */
 public class Run5 {
+    public static void main(String[] args) {
+        Object lock = new Object();
+        Thread a = new Thread(() -> {
+            Service5 service = new Service5();
+            service.testMethod5(lock);
+        }, "a");
+        a.start();
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        a.interrupt();
+    }
+    /**
+     * 总结：
+     * 1. 执行完同步代码块就会释放对象的锁
+     * 2. 在执行同步代码的过程中，遇到异常而导致线程终止，锁也会被释放
+     * 3. 在执行同步代码的过程中，执行了锁所属对象的wait()方法，这个线程会释放对象锁，
+     *    而此线程对象会进入线程等待池中，等待被唤醒。
+     */
 }

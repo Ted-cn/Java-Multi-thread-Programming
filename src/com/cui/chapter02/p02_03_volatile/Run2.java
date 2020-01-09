@@ -38,7 +38,9 @@ class PrintString2 extends Thread {
  * 但使用java -version命令查看运行环境后，发现本机就是-server服务模式中64bit的JVM（64位的jdk 1.8 amd64，只能运行在Server模式下）
  * 却并没有出现预期的死循环，搜索无果后，这个问题值得保留！!!
  *
- * 发现问题与while()循环体内的代码有关，注释后即可。但仍不知为何！！！
+ * 发现问题与while()循环体内的代码有关，注释后即可。
+ *
+ * 在Run7找到答案！
  */
 public class Run2 {
     public static void main(String[] args) {

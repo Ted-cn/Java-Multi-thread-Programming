@@ -2,71 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ed1a73-0ee7-4183-82bb-b137faf83a66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Multi-thread-Programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_01_process_thread/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_02_Thread_Runnable/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_02_Thread_Runnable/MyRunnable01Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_02_Thread_Runnable/MyThread01Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_02_Thread_Runnable/MyThread02Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_02_Thread_Runnable/MyThread03Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_02_Thread_Runnable/MyThread04Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_02_Thread_Runnable/MyThread05Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_03_currentThread/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_03_currentThread/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_03_currentThread/Run3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_04_isAlive/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_04_isAlive/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_05_sleep/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_05_sleep/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_06_getId/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_08_suspend_thread/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_08_suspend_thread/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_08_suspend_thread/Run3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_08_suspend_thread/Run4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_09_yield/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_10_priority_of_thread/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_10_priority_of_thread/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_10_priority_of_thread/Run4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_10_priority_of_thread/Run6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter01/p01_11_daemon_thread/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_01_synchronized_method/Run8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_1/CommonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_1/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_1/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_10/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,36 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-              <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,6 +42,9 @@
       <find>是否停止</find>
       <find>Service7</find>
       <find>size()</find>
+      <find>sleep</find>
+      <find>server</find>
+      <find>IllegalMonitorStateException</find>
     </findStrings>
     <replaceStrings>
       <replace>Sub</replace>
@@ -132,14 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_04_isAlive/Run2.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_05_sleep/Run1.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_05_sleep/Run2.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_06_getId/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stopThread/Run3.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stopThread/Run.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stopThread/Run1.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stopThread/Run5.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stopThread/Run6.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stopThread/Run7.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stopThread/Run9.java" />
@@ -176,13 +93,21 @@
         <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_10/Test.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_02_synchronized_block/s2_2_10/Run.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run1.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run1.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run2.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run4.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run5.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run6.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run7.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run3.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run1.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run4.java" />
         <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run5.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java" />
-        <option value="$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run6.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run8.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run9.java" />
+        <option value="$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run10.java" />
       </list>
     </option>
   </component>
@@ -202,8 +127,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="263" />
-    <option name="y" value="133" />
+    <option name="x" value="706" />
+    <option name="y" value="83" />
     <option name="width" value="1218" />
     <option name="height" value="819" />
   </component>
@@ -226,19 +151,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578530177513" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578582618625" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -270,35 +195,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run3">
-    <configuration name="Run2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run2" />
-      <module name="Java-Multi-thread-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.chapter03.p03_01_wait_notify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.chapter02.p02_03_volatile.Run2" />
-      <module name="Java-Multi-thread-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cui.chapter02.p02_03_volatile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run3" />
+  <component name="RunManager" selected="Application.Run10">
+    <configuration name="Run10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run10" />
       <module name="Java-Multi-thread-Programming" />
       <extension name="coverage">
         <pattern>
@@ -311,11 +210,11 @@
       </method>
     </configuration>
     <configuration name="Run3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.chapter02.p02_03_volatile.Run3" />
+      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run3" />
       <module name="Java-Multi-thread-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cui.chapter02.p02_03_volatile.*" />
+          <option name="PATTERN" value="com.cui.chapter03.p03_01_wait_notify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,8 +222,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run4" />
+    <configuration name="Run5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run5" />
+      <module name="Java-Multi-thread-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.chapter03.p03_01_wait_notify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run6 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run6" />
+      <module name="Java-Multi-thread-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.chapter03.p03_01_wait_notify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run8" />
+      <module name="Java-Multi-thread-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cui.chapter03.p03_01_wait_notify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cui.chapter03.p03_01_wait_notify.Run9" />
       <module name="Java-Multi-thread-Programming" />
       <extension name="coverage">
         <pattern>
@@ -337,19 +275,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Run2 (1)" />
-      <item itemvalue="Application.Run3 (1)" />
-      <item itemvalue="Application.Run4" />
-      <item itemvalue="Application.Run2" />
-      <item itemvalue="Application.Run3" />
+      <item itemvalue="Application.Run5 (1)" />
+      <item itemvalue="Application.Run6 (1)" />
+      <item itemvalue="Application.Run8" />
+      <item itemvalue="Application.Run9" />
+      <item itemvalue="Application.Run10" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run3" />
-        <item itemvalue="Application.Run2" />
-        <item itemvalue="Application.Run4" />
-        <item itemvalue="Application.Run3 (1)" />
-        <item itemvalue="Application.Run2 (1)" />
+        <item itemvalue="Application.Run10" />
+        <item itemvalue="Application.Run9" />
+        <item itemvalue="Application.Run8" />
+        <item itemvalue="Application.Run6 (1)" />
+        <item itemvalue="Application.Run5 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -378,16 +316,17 @@
       <workItem from="1578439484276" duration="956000" />
       <workItem from="1578486285426" duration="9113000" />
       <workItem from="1578526491298" duration="3687000" />
+      <workItem from="1578572390242" duration="10251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60973000" />
+    <option name="totallyTimeSpent" value="71224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15671642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -396,8 +335,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27765727" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43167028" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43275487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -418,7 +357,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2489339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25159913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,15 +366,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38069415" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43167028" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43275487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.44577006" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.44577006" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -444,7 +383,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout-to-restore>
@@ -506,93 +445,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="64" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_07_stop_thread/Run8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java-Multi-thread-Programming.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_08_suspend_thread/Run1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_08_suspend_thread/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_08_suspend_thread/Run3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -815,53 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="13" column="80" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="59" column="1" selection-start-line="5" selection-end-line="59" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
@@ -869,10 +674,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
+          <folding>
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#4725#4726#0" expanded="true" />
+            <element signature="e#4793#4794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter01/p01_05_sleep/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="804" column="29" lean-forward="true" selection-start-line="804" selection-start-column="29" selection-end-line="804" selection-end-column="29" />
+        <state relative-caret-position="200">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
           <folding>
             <element signature="e#20831#20832#0" expanded="true" />
             <element signature="e#20871#20872#0" expanded="true" />
@@ -880,10 +759,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java-Multi-thread-Programming.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="13" column="80" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        <state relative-caret-position="156">
+          <caret line="742" column="16" selection-start-line="742" selection-start-column="16" selection-end-line="742" selection-end-column="16" />
           <folding>
             <element signature="e#14796#14797#0" expanded="true" />
             <element signature="e#14860#14861#0" expanded="true" />
@@ -899,26 +812,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="205">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
           <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter02/p02_03_volatile/Run3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        <state relative-caret-position="202">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cui/chapter03/p03_01_wait_notify/Run10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="68" column="32" lean-forward="true" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
           <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
           </folding>
         </state>
       </provider>
